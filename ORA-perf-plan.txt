@@ -1,0 +1,31 @@
+Critical Element: Project Management and Delivery of Outcomes(30%)
+Description: • Develops studies and deploys refinements to improve the accuracy and appropriateness of part number standardization and horizontal pricing algorithms
+• Conducts horizontal price analysis to support CO negotiations and track progress in the reduction of excessive price variability across FAS contract vehicles
+• Contributes to pre-award and post award price analysis projects for FAS contract vehicles
+• Conducts market research and develops whitepapers and analyses to support the implementation of Government-wide Category Management
+• Creates visualizations and tools to support the implementation of the Transactional Data Reporting (TDR) rule
+• Plans, tracks, and measures project performance
+
+Critical Element: Teamwork & Coalition Building(20%)
+Description: Specific description of employee tasks or projects:
+• Provides advice and exhibits behavior that reflects an atmosphere of team coheesiveness, innovation, creative thinking and communication
+• Maintains relationships with GSS & ITS staff to support business operations
+• Provides stakeholder support, including:
+o Responding to requests for reports, visualizations, and meeting materials; from GSA, FAS and QV internal staff
+o Responding to external requests for reports, visualizations, and meeting materials; originating from FOIA, Congressional, and GAO inquiries
+• Completes mandatory OLU training courses by assigned deadline
+• Makes use of the Acquisition Gateway on a monthly (or more frequent) basis
+
+Critical Element: Analytical and Reporting Capabilities(40%)
+Description: • Identifies and leads the execution of one or more TDR data visualization projects in support of Category Management to include:
+o A summary of stakeholder use cases
+o Identification of data sources
+o Proposed development timeline
+o Recommended refresh schedule
+• Deploys identified data visualization project(s) in accordance with agreed upon development timeline
+• Maintains and develops further refinements to existing QV0F visualizations and dashboards
+• Calculates and presents key performance indicators (KPIs) and other reporting requirements
+
+Critical Element: Communication of Information & Policies(10%)
+Description: Serves as a SME to internal stakeholders in the area of price analysis and data analytics. Provides training for the FAS’ Acquisition Workforce to facilitate the implementation of new policies and
+tools.
