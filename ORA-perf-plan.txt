@@ -1,9 +1,8 @@
-Critical Element: Project Management and Delivery of Outcomes(30%)
+﻿Critical Element: Project Management and Delivery of Outcomes(30%)
 Description: • Develops studies and deploys refinements to improve the accuracy and appropriateness of part number standardization and horizontal pricing algorithms
 • Conducts horizontal price analysis to support CO negotiations and track progress in the reduction of excessive price variability across FAS contract vehicles
 • Contributes to pre-award and post award price analysis projects for FAS contract vehicles
 • Conducts market research and develops whitepapers and analyses to support the implementation of Government-wide Category Management
-• Creates visualizations and tools to support the implementation of the Transactional Data Reporting (TDR) rule
 • Plans, tracks, and measures project performance
 
 Critical Element: Teamwork & Coalition Building(20%)
